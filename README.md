@@ -122,10 +122,10 @@ git clone https://github.com/chensongyue10-design/j-person-decision-system.git ~
 
 ## 文件说明
 
-- `SKILL.md`：Skill 主文件；
-- `references/evaluation-cases.md`：人工验收用例与评分标准；
-- `references/evaluation-prompt-set.json`：结构化评测 Prompt 集；
-- `references/methodology.md`：方法论与案例依据。
+- [`SKILL.md`](SKILL.md)：Skill 主文件；
+- [`references/evaluation-cases.md`](references/evaluation-cases.md)：人工验收用例与评分标准；
+- [`references/evaluation-prompt-set.json`](references/evaluation-prompt-set.json)：结构化评测 Prompt 集；
+- [`references/methodology.md`](references/methodology.md)：方法论与案例依据。
 
 ## 使用边界
 
